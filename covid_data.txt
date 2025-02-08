@@ -1,0 +1,135 @@
+3 week Covid-19 Data Sheet
+
+
+12/08/23
+Regions Affected: United States, 
+Symptoms: Coughing, Fever, Aching, 
+Age Range: 15-30
+Sources: CDC database, 
+
+12/09/23
+Regions Affected: United States, 
+Symptoms: Coughing, Fever, Aching, 
+Age Range: 15-30
+Sources: CDC database, 
+
+12/10/23
+Regions Affected: United States, 
+Symptoms: Coughing, Fever, Aching, 
+Age Range: 15-30
+Sources: CDC database, 
+
+12/11/23
+Regions Affected: United States, 
+Symptoms: Coughing, Fever, Aching, 
+Age Range: 15-30
+Sources: CDC database, 
+
+12/12/23
+Regions Affected: United States, 
+Symptoms: Coughing, Fever, Aching, 
+Age Range: 15-30
+Sources: CDC database, 
+
+12/13/23
+Regions Affected: United States, 
+Symptoms: Coughing, Fever, Aching, 
+Age Range: 15-30
+Sources: CDC database, 
+
+12/15/23
+Regions Affected: United States, Canada, 
+Symptoms: Coughing, Fever, Aching, 
+Age Range: 18-35
+Sources: CDC database, 
+
+12/16/23
+Regions Affected: United States, Canada, 
+Symptoms: Coughing, Fever, Aching, 
+Age Range: 18-35
+Sources: CDC database, 
+
+12/17/23
+Regions Affected: United States, Canada, 
+Symptoms: Coughing, Fever, Aching, 
+Age Range: 18-35
+Sources: CDC database, 
+
+12/18/23
+Regions Affected: United States, Canada, 
+Symptoms: Coughing, Fever, Aching, 
+Age Range: 20-40
+Sources: CDC database, 
+
+12/19/23
+Regions Affected: United States, Canada, 
+Symptoms: Coughing, Fever, Aching, 
+Age Range: 20-40
+Sources: CDC database, 
+
+12/20/23
+Regions Affected: United States, Canada, 
+Symptoms: Coughing, Fever, Aching, 
+Age Range: 20-40
+Sources: CDC database, 
+
+12/21/23
+Regions Affected: United States, Canada, Mexico, 
+Symptoms: Coughing, Fever, Aching, 
+Age Range: 20-40
+Sources: CDC database, 
+
+12/22/23
+Regions Affected: United States, Canada, Mexico, 
+Symptoms: Coughing, Fever, Aching, Headache, 
+Age Range: 22-45
+Sources: CDC database, 
+
+12/23/23
+Regions Affected: United States, Canada, Mexico, 
+Symptoms: Coughing, Fever, Aching, Headache, 
+Age Range: 22-45
+Sources: CDC database, 
+
+12/24/23
+Regions Affected: United States, Canada, Mexico, 
+Symptoms: Coughing, Fever, Aching, Headache, 
+Age Range: 22-45
+Sources: CDC database, 
+
+12/25/23
+Regions Affected: United States, Canada, Mexico, 
+Symptoms: Coughing, Fever, Aching, Headache, 
+Age Range: 22-45
+Sources: CDC database, 
+
+12/26/23
+Regions Affected: United States, Canada, Mexico, 
+Symptoms: Coughing, Fever, Aching, Headache, 
+Age Range: 22-45
+Sources: CDC database, 
+
+12/27/23
+Regions Affected: United States, Canada, Mexico, 
+Symptoms: Coughing, Fever, Aching, Headache, 
+Age Range: 22-45
+Sources: CDC database, 
+
+12/28/23
+Regions Affected: United States, Canada, Mexico, 
+Symptoms: Coughing, Fever, Aching, Headache, 
+Age Range: 22-45
+Sources: CDC database, 
+
+12/29/23
+Regions Affected: United States, Canada, Mexico, 
+Symptoms: Coughing, Fever, Aching, Headache, 
+Age Range: 25-50
+Sources: CDC database, 
+
+12/30/23
+Regions Affected: United States, Canada, Mexico, 
+Symptoms: Coughing, Fever, Aching, Headache, 
+Age Range: 25-50
+Sources: CDC database, 
+
